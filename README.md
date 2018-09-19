@@ -1,5 +1,5 @@
 # KNN_Classification
-This project made for data mining class takes a classification training and a test dataset, and classifies the test set accordingly.
+This project is a school project made for data mining course. It takes a classification training and test datasets, and classifies the test set accordingly.
 
 Giving it a train and test set, you can enter the number of K nearest neighbors as input, and get an output of total accuracy, the accuracy percentange of each class, and the confusion matrix.
 
